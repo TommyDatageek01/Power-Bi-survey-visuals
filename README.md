@@ -39,7 +39,7 @@ Overall, more than half of the respondent were happy with their job life, but ro
 ### Salary
 From the data, it was discovered that Data Scientists are the happiest with their jobs with an average rating of 5.68, their work-life happiness was measured to be 6.12.
 Data Architects were second with an average score of 5.67 However their work-life happiness is 4.67.
-While Data Engineer and Data Analyst had 4.34 and 4.49  happiness with salary. However, their job happiness was 5.92 and 6.0o
+While Data Engineer and Data Analyst had 4.34 and 4.49  happiness with salary. However, their job happiness was 5.92 and 6.00
 
 
 ## How do Data professionals fare in the U.S. and U.K.?
