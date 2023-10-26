@@ -34,8 +34,6 @@ There was no need for the data cleaning as the data was already clean.
 
 
 ## Insights
-The respondents were mostly from the United States, followed by Canada. 
-
 Overall, more than half of the respondent were happy with their job life, but roughly less than half were not happy with their salary. This could suggest that Data professionals do love their job but feel less compensated.
 
 ### Salary
@@ -43,12 +41,10 @@ From the data, it was discovered that Data Scientist are the most happy with yhe
 Data Arcitect were second with an average scrore of 5.67 However bygrit hapoiness at work lofe is 4.67.
 While Data Engineer and Data Analyst had 4.34 and 4.49  happiness with salary. However their job happiness were 5.92 and 6.0o
 
-Which staff feel less happy with work and job
 
-Which job makes you happier with work and job?
+## How do Data professionals fare in the U.S. and U.K.?
+From the survey, it was discovered that data professionals in the US have an average age of 31 while in the UK data professionals have an average age of 32
+The work and salary happiness rating in the 6.38 and 5.0 respectively. While that of UK was 5.84 and 4.05. This could probably suggest that Data professionals in the UK are less happy with their nummeration.
+Overalll data professionals in the US seem to be happiest while data professionals from India seem to be the least happpy.
 
-How do Data professionals fare in the U.S. and U.K.?
-
-Which group of people feels hard to break into…most easy to break into
-
-
+Interact with the survey result by [downloading the report here](https://github.com/TommyDatageek01/Power-Bi-survey-visuals/blob/main/final.pbix)
