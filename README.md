@@ -24,6 +24,14 @@ There was no need for the data cleaning as the data was already clean.
 
 ## The survey respondent 
  The survey respondents were a total of 630, consisting of 468 males and  162 females. The survey respondents' job titles included Data Scientist, Data Analyst, Data Architect, Data Engineer, Database Developer and many more.
+ 
+### The survey  by respondents consisted of:
+- United States 221
+- Others 221
+- India 73
+- United Kingdom 40
+- Canada 32
+
 
 ## Insights
 The respondents were mostly from the United States, followed by Canada. 
